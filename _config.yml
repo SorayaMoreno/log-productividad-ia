@@ -1,0 +1,6 @@
+title: Blog IA Productividad
+author: Tu Nombre
+description: "Blog automatizado sobre productividad e inteligencia artificial"
+url: "https://tuusuario.github.io/blog"
+plugins:
+  - jekyll-feed

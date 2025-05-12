@@ -1,0 +1,6 @@
+title: Blog Automatizado de Nicho
+author: Tu Nombre
+description: "Artículos semanales sobre mejores accesorios para móviles gaming con enlaces de afiliado."
+url: "https://TU_USUARIO.github.io/auto-affiliate-blog"
+plugins:
+  - jekyll-feed
